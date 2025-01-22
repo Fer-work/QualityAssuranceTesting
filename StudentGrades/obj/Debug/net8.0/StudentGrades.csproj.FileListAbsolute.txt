@@ -1,0 +1,15 @@
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\bin\Debug\net8.0\StudentGrades.exe
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\bin\Debug\net8.0\StudentGrades.deps.json
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\bin\Debug\net8.0\StudentGrades.runtimeconfig.json
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\bin\Debug\net8.0\StudentGrades.dll
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\bin\Debug\net8.0\StudentGrades.pdb
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfo.cs
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\StudentGrades.sourcelink.json
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\StudentGrades.dll
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\refint\StudentGrades.dll
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\StudentGrades.pdb
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\StudentGrades.genruntimeconfig.cache
+C:\Users\ferwo\Documents\Conestoga\Semester4\Programming-Software Quality Assurance\QualityAssuranceTesting\StudentGrades\obj\Debug\net8.0\ref\StudentGrades.dll
